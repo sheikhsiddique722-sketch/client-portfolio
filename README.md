@@ -26,7 +26,7 @@ A modern, elegant personal portfolio website built with HTML5, CSS3, and JavaScr
 
 ## Live Demo
 
-[View Portfolio](your-github-pages-link-here)
+[View Portfolio]( https://sheikhsiddique722-sketch.github.io/client-portfolio/)
 
 ---
 
