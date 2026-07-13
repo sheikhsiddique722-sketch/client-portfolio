@@ -10,7 +10,7 @@ A modern, elegant personal portfolio website built with HTML5, CSS3, and JavaScr
 - Education timeline
 - Contact form
 - Fully responsive design
-- Smooth scroll animations & glassmorphism UI
+- Smooth scroll animations & glassmorphism UI 
 
 ## Projects Included
 
