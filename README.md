@@ -11,7 +11,7 @@ A modern, elegant personal portfolio website built with HTML5, CSS3, and JavaScr
 - Contact form
 - Fully responsive design 
 - Smooth scroll animations & glassmorphism UI 
-
+ 
 ## Projects Included
 
 - **Luna Café Website** — Restaurant website with animated hero & menu
