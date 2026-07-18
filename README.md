@@ -6,7 +6,7 @@ A modern, elegant personal portfolio website built with HTML5, CSS3, and JavaScr
 
 - Animated hero section with typed text effect
 - Skills showcase with animated progress rings
-- Project cards with live demo links  
+- Project cards with live demo links   
 - Education timeline
 - Contact form
 - Fully responsive design 
