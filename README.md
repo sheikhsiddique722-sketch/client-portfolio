@@ -2,7 +2,7 @@
 
 A modern, elegant personal portfolio website built with HTML5, CSS3, and JavaScript.
  
-## Features
+## Features 
 
 - Animated hero section with typed text effect
 - Skills showcase with animated progress rings 
